@@ -61,8 +61,6 @@ Excel, WhattsApp, Discord, Microsoft Teams
 Documento do Projeto
 GitHub
 
-
-
 Arquitetura Cliente/Servidor
 A Arquitetura escolhida para a implementação do projeto foi a Arquitetura Cliente Servidor. As arquiteturas em camadas se tornaram muito predominantes com a popularidade dos sistemas de software cliente-servidor. Em um aplicativo distribuído que usa uma arquitetura cliente-servidor, também conhecida como arquitetura de duas camadas, clientes e servidores se comunicam diretamente. 
 Foi escolhida a arquitetura em duas camadas, onde será utilizado o banco de dados para que seja realizado um pequeno cadastro de usuário para a utilização da Aplicação e será armazenado os dados de controle financeiro da aplicação, mostrando os gastos de forma diária, semanal, mensal, semestral e anual para uma melhor verificação e análise dos controles de gastos.
